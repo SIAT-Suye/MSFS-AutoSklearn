@@ -19,6 +19,7 @@ This study was conducted on the Kaggle platform (https://www.kaggle.com/), a glo
 
 ## 4 How the MSFS algorithm uses the dataset ？
 Input：
+
 X: Feature matrix, typically a two-dimensional array where each row represents a sample and each column represents a feature.
 
 y: Target variable, usually a one-dimensional array that represents the label or category of each sample.
@@ -32,6 +33,7 @@ cv（optional, default is 5）：The number of folds for cross-validation. Speci
 n_repeats（optional, default is 10）：The number of repetitions for the feature selection process. Increases the stability and reliability of the results by running the feature selection multiple times.
 
 Output：
+
 The feature matrix after feature selection, containing only the selected features and the indices of the features that were ultimately selected.
 
 ## 5 MSFS Algorithm Training and Testing Approach
