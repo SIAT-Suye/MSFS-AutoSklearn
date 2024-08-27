@@ -3,6 +3,7 @@
 ## What is the MSFS-AutoSklearn？
 With the advancement of data science, Automated Machine Learning (AutoML) has gained widespread attention due to its ability to lower barriers, save time, and improve efficiency. However, as the dimensionality of data increases, AutoML faces challenges in handling large feature sets. This research proposes an efficient modeling framework that combines a Multi-Stage Feature Selection (MSFS) algorithm with AutoSklearn to address the challenges posed by **high-dimensional data**.
 ![image](https://github.com/user-attachments/assets/a10b3fc2-6b45-4a30-b930-3d51963f7970)
+
 The MSFS-AutoSklearn framework breaks down the barriers between specialized technology and practical applications by lowering technical thresholds, increasing efficiency, accelerating model deployment, reducing talent demands, and fostering innovation.
 
 ## What is the MSFS?
