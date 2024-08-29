@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">An Efficient Task Implementation Modeling Framework with Multi-Stage Feature Selection and AutoML: A Case Study in Forest Fire Risk Prediction</h1>
 
+# Paper: https://www.mdpi.com/2933614
+
 ## What is the MSFS-AutoSklearn？
 With the advancement of data science, Automated Machine Learning (AutoML) has gained widespread attention due to its ability to lower barriers, save time, and improve efficiency. However, as the dimensionality of data increases, AutoML faces challenges in handling large feature sets. This research proposes an efficient modeling framework that combines a Multi-Stage Feature Selection (MSFS) algorithm with AutoSklearn to address the challenges posed by **high-dimensional data**.
 
@@ -35,3 +37,4 @@ see msfs-autosklearn.ipynb or https://www.kaggle.com/code/gaolang/msfs-autosklea
 🙋 If you have any question or want to use the code, please contact ye.su@siat.ac.cn.
 
 🌟 If you find this resource helpful, please consider to star this repository and cite our research.
+**Cite: Su, Y.; Zhao, L.; Li, H.; Li, X.; Chen, J.; Ge, Y. An Efficient Task Implementation Modeling Framework with Multi-Stage Feature Selection and AutoML: A Case Study in Forest Fire Risk Prediction. Remote Sens. 2024, 16, 3190. https://doi.org/10.3390/rs16173190**
