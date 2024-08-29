@@ -37,4 +37,5 @@ see msfs-autosklearn.ipynb or https://www.kaggle.com/code/gaolang/msfs-autosklea
 🙋 If you have any question or want to use the code, please contact ye.su@siat.ac.cn.
 
 🌟 If you find this resource helpful, please consider to star this repository and cite our research.
+
 **Cite: Su, Y.; Zhao, L.; Li, H.; Li, X.; Chen, J.; Ge, Y. An Efficient Task Implementation Modeling Framework with Multi-Stage Feature Selection and AutoML: A Case Study in Forest Fire Risk Prediction. Remote Sens. 2024, 16, 3190. https://doi.org/10.3390/rs16173190**
